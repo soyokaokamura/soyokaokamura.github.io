@@ -5,5 +5,33 @@
     "title": "soyokaokamura.github.io",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "タイトル 1（リンク）\nタイトル 2（リンク）\n\n\n\n\n\nプロジェクト概要など"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "research",
+    "section": "",
+    "text": "タイトル 1（リンク）\nタイトル 2（リンク）"
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "research",
+    "section": "",
+    "text": "プロジェクト概要など"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
