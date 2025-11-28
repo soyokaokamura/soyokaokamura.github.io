@@ -1,13 +1,11 @@
 ---
 title: "Research"
 format: html
+reference-location: section
 ---
 
 # Publications
 
-# Working Papers
+# Working papers
 
-- タイトル 1（リンク）
-- タイトル 2（リンク）
-
-# Works in Progress
+# Works in progress
