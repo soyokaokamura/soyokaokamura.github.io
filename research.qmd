@@ -1,0 +1,15 @@
+---
+title: "research"
+format: html
+---
+
+# Research
+
+## Publications
+
+## Working Papers
+- タイトル 1（リンク）
+- タイトル 2（リンク）
+
+## Works in Progress
+- プロジェクト概要など
