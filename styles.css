@@ -69,8 +69,8 @@ a:hover{
   height: 6px;
 
   background-image:
-    radial-gradient(circle, #8ECFD9 40%, transparent 41%),
-    radial-gradient(circle, #A97445 40%, transparent 41%);
+    radial-gradient(circle, #9DDDE5 40%, transparent 41%),
+    radial-gradient(circle, #C28C62 40%, transparent 41%);
     
   background-size: 12px 6px;
   background-position: 0 0, 8px 0;
