@@ -70,6 +70,11 @@ a:hover{
   padding-bottom: 0.35rem;
 }
 
+.navbar .container,
+.navbar .container-fluid {
+  padding-left: 40px !important;  /* ← 数値を大きくすると右へ移動 */
+}
+
 /* ===== Main content "paper" panel (THIS makes the background visible) ===== */
 .content{
   background: rgba(255,250,242,0.88) !important;
