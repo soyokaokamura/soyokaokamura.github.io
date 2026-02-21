@@ -1,9 +1,10 @@
 ---
-title: "Research"
+title: ""
 format: html
 reference-location: section
 page-layout: full
 toc: true
+page-title: false
 ---
 
 # Working papers

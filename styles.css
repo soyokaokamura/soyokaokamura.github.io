@@ -36,13 +36,18 @@ a:hover{
 .navbar{
   background-color: var(--paper) !important;
   border-bottom: 1px solid var(--line);
+  font-family: 'Crimson Pro', serif !important;
 }
+
 .navbar .navbar-brand,
-.navbar a{
+.navbar .nav-link{
+  font-family: 'Crimson Pro', serif !important;
   color: var(--ink) !important;
   font-weight: 600;
+  letter-spacing: 0.4px;
 }
-.navbar a:hover{
+
+.navbar .nav-link:hover{
   color: var(--aqua-dark) !important;
 }
 
