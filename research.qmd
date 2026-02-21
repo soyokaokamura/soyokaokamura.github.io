@@ -2,9 +2,23 @@
 title: "Research"
 format: html
 reference-location: section
+page-layout: full
 ---
 
 # Publications
+
+::: {.paper}
+### Trading Trash on Tricycles {.paper-title}
+**Job Market Paper**  
+with Coauthor Name
+
+[Abstract](#abs-jmp){.paper-link} · [Paper](files/jmp.pdf){.paper-link} · [Slides](files/jmp_slides.pdf){.paper-link}
+
+::: {.callout-note collapse="true" #abs-jmp}
+#### Abstract
+aaa
+:::
+:::
 
 # Working papers
 
