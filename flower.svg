@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <defs>
-    <!-- one rounded petal (like your image: round tip, narrow toward center) -->
+    <!-- slightly larger petal -->
     <path id="petal"
-      d="M32 11
-         C26.5 11 22.8 17.0 25.2 22.2
-         C26.8 25.6 30.0 27.8 32.0 28.8
-         C34.0 27.8 37.2 25.6 38.8 22.2
-         C41.2 17.0 37.5 11 32 11 Z" />
+      d="M32 7
+         C25 7 20.5 16.5 23.5 23
+         C25.5 27 29.5 29.5 32 30.5
+         C34.5 29.5 38.5 27 40.5 23
+         C43.5 16.5 39 7 32 7 Z" />
   </defs>
 
-  <!-- petals (8) watercolor-ish -->
-  <g fill="#BFE6EE">
+  <!-- petals (8) -->
+  <g fill="#8ECFD9">
     <use href="#petal"/>
     <use href="#petal" transform="rotate(45 32 32)"/>
     <use href="#petal" transform="rotate(90 32 32)"/>
@@ -21,6 +21,6 @@
     <use href="#petal" transform="rotate(315 32 32)"/>
   </g>
 
-  <!-- center -->
-  <circle cx="32" cy="32" r="7" fill="#C49A6C"/>
+  <!-- center slightly bigger -->
+  <circle cx="32" cy="32" r="8.5" fill="#A97445"/>
 </svg>
