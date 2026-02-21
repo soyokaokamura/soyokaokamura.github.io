@@ -10,14 +10,8 @@ page-layout: full
 
 # Publications
 
-::: {.paper}
-- ***Title*** {.paper-title} (with Coauthor Name)
+- **Title** (with Coauthor Name)
 [Paper](files/jmp.pdf){.paper-link} · [Slides](files/jmp_slides.pdf){.paper-link}
 
-::: {.callout-note collapse="true" #abs-jmp}
-- Abstract 
-aaa
-:::
-:::
 
 # Works in progress
