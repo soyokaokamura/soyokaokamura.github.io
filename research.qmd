@@ -5,6 +5,7 @@ reference-location: section
 page-layout: full
 toc: false
 page-title: false
+search: false
 ---
 
 ## Working papers
