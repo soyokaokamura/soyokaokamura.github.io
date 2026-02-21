@@ -53,28 +53,10 @@ a:hover{
 .navbar{
   background-color: rgba(255,250,242,0.75) !important; /* translucent paper */
   backdrop-filter: blur(6px);
-  /*border-bottom: 2px solid rgba(209,164,107,0.65);     /* amber line */
-  border-bottom: none;
+  border-bottom: 2px solid rgba(209,164,107,0.65);     /* amber line */
   font-family: 'Crimson Pro', serif !important;
   margin-top: 50px;   /* ← 数値を調整 */
   position: relative;
-}
-
-.navbar::after{
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -1px;
-  width: 80%;
-  height: 6px;
-
-  background-image:
-    radial-gradient(circle, #9DDDE5 40%, transparent 41%),
-    radial-gradient(circle, #C28C62 40%, transparent 41%);
-    
-  background-size: 34px 6px;
-  background-position: 0 0, 17px 0;
-  background-repeat: repeat-x;
 }
 
 .navbar .container,
