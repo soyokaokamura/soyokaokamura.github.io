@@ -1,5 +1,7 @@
 ---
 title: "Soyoka Okamura"
+page-layout: full
+toc: false
 ---
 
 Graduate student in University of Tokyo
