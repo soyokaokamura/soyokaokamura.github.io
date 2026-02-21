@@ -7,11 +7,11 @@ page-title: false
 
 ::: {.columns}
 
-::: {.column width="30%"}
-![](files/paru.jpg){style="border-radius: 16px; width: 60%;"}
+::: {.column width="50%"}
+![](files/paru.jpg){style="border-radius: 16px; width: 100%;"}
 :::
 
-::: {.column width="70%"}
+::: {.column width="50%"}
 
 Graduate student in University of Tokyo
 
