@@ -13,6 +13,8 @@ page-title: false
 
 ::: {.column width="50%"}
 
+## Soyoka Okamura 
+
 Graduate student in University of Tokyo
 
 Fields: IO, Environmental Economics, Development Economics
