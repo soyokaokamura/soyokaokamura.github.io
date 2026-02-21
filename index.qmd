@@ -8,7 +8,7 @@ page-title: false
 ::: {.columns}
 
 ::: {.column width="30%"}
-![](files/paru.jpg){style="border-radius: 16px; width: 100%;"}
+![](files/paru.jpg){style="border-radius: 16px; width: 60%;"}
 :::
 
 ::: {.column width="70%"}
@@ -21,4 +21,5 @@ soyoka802@gmail.com
 
 [cv](files/cv.pdf){target="_blank" rel="noopener" .btn .btn-primary .btn-cv}
 
+:::
 :::

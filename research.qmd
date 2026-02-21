@@ -7,13 +7,13 @@ toc: false
 page-title: false
 ---
 
-# Working papers
+## Working papers
 
 
-# Publications
+## Publications
 
 - **Title** (with Coauthor Name)
 [Paper](files/jmp.pdf){.paper-link} · [Slides](files/jmp_slides.pdf){.paper-link}
 
 
-# Works in progress
+## Works in progress
