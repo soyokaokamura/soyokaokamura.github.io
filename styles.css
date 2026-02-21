@@ -8,7 +8,7 @@
   --line: rgba(31,41,55,0.12);
 
   /* accents (slightly muted = retro) */
-  --aqua: #5e9ca0;        /* muted aqua */
+  --aqua: #40C5DD;        /* muted aqua */
   --aqua-dark: #2e7f9b;   /* hover */
   --accent: #d1a46b;      /* muted amber (retro hint) */
 
@@ -57,6 +57,9 @@ a:hover{
   text-decoration: none !important;
 }
 
+.navbar-brand {
+  display: none !important;
+}
 .navbar .navbar-brand,
 .navbar .nav-link{
   font-family: 'Crimson Pro', serif !important;
