@@ -3,7 +3,7 @@ title: ""
 format: html
 reference-location: section
 page-layout: full
-toc: true
+toc: false
 page-title: false
 ---
 
