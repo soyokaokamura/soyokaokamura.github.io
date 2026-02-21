@@ -8,8 +8,8 @@
   --line: rgba(31,41,55,0.12);
 
   /* accents (slightly muted = retro) */
-  --aqua: #40C5DD;        /* muted aqua */
-  --aqua-dark: #00B1D1;   /* hover */
+  --aqua: #2EB9D1;        /* muted aqua */
+  --aqua-dark: #2E95D1;   /* hover */
   --accent: #d1a46b;      /* muted amber (retro hint) */
 
   /* radius */
