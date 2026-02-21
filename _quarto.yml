@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Soyoka Okamura"
+  favicon: flower.svg
   navbar:
     left:
       - href: research.qmd
