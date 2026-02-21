@@ -50,6 +50,7 @@ a:hover{
   backdrop-filter: blur(6px);
   border-bottom: 2px solid rgba(209,164,107,0.65);     /* amber line */
   font-family: 'Crimson Pro', serif !important;
+  margin-top: 18px;   /* ← 数値を調整 */
 }
 
 .navbar .navbar-brand,
