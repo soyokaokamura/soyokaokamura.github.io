@@ -9,7 +9,7 @@
 
   /* accents (slightly muted = retro) */
   --aqua: #40C5DD;        /* muted aqua */
-  --aqua-dark: #2e7f9b;   /* hover */
+  --aqua-dark: #00B1D1;   /* hover */
   --accent: #d1a46b;      /* muted amber (retro hint) */
 
   /* radius */
@@ -57,11 +57,13 @@ a:hover{
   text-decoration: none !important;
 }
 
+/* Hide site title in header */
 .navbar-brand {
   display: none !important;
 }
-.navbar .navbar-brand,
-.navbar .nav-link{
+
+/* Style navigation links */
+.navbar .nav-link {
   font-family: 'Crimson Pro', serif !important;
   color: var(--ink) !important;
   font-weight: 600;
