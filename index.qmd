@@ -21,7 +21,7 @@ Fields: IO, Environmental Economics, Development Economics
 
 soyoka802@gmail.com
 
-[cv](files/cv.pdf){target="_blank" rel="noopener" .btn .btn-primary .btn-cv}
+[cv](files/cv-soyoka.pdf){target="_blank" rel="noopener" .btn .btn-primary .btn-cv}
 
 :::
 :::
