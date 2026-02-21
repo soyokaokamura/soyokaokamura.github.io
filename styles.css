@@ -111,6 +111,11 @@ h2{
   background-color: var(--aqua-dark) !important;
   border-color: var(--aqua-dark) !important;
 }
+.btn-cv{
+  font-size: 0.85rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+}
 
 /* Paper list styling (Research) */
 .paper{
