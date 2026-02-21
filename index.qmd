@@ -1,8 +1,17 @@
 ---
-title: "Soyoka Okamura"
+title: ""
 page-layout: full
 toc: false
+page-title: false
 ---
+
+::: {.columns}
+
+::: {.column width="30%"}
+![](images/paru.jpg){style="border-radius: 16px; width: 100%;"}
+:::
+
+::: {.column width="70%"}
 
 Graduate student in University of Tokyo
 
@@ -11,3 +20,7 @@ Fields: IO, Environmental Economics, Development Economics
 soyoka802@gmail.com
 
 [cv](files/cv.pdf){target="_blank" rel="noopener" .btn .btn-primary .btn-cv}
+
+:::
+
+:::
