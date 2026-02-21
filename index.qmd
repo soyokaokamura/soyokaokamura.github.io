@@ -22,5 +22,3 @@ soyoka802@gmail.com
 [cv](files/cv.pdf){target="_blank" rel="noopener" .btn .btn-primary .btn-cv}
 
 :::
-
-:::
