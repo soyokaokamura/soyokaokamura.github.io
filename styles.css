@@ -82,7 +82,8 @@ a:hover{
   border-radius: var(--r);
   padding: 1.3rem 1.5rem;
   box-shadow: 0 8px 24px rgba(31,41,55,0.06);
-  max-width: 1000px;     
+  width: min(1100px, calc(100% - 40px));  /* 最大1100px、狭い画面では縮む */
+  margin: 24px auto;  
 }
 
 /* Section headers (subtle retro underline) */
