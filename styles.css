@@ -72,8 +72,8 @@ a:hover{
     radial-gradient(circle, #9DDDE5 40%, transparent 41%),
     radial-gradient(circle, #C28C62 40%, transparent 41%);
     
-  background-size: 22px 6px;
-  background-position: 0 0, 8px 0;
+  background-size: 34px 6px;
+  background-position: 0 0, 17px 0;
   background-repeat: repeat-x;
 }
 
