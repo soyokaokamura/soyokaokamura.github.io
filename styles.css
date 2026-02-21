@@ -11,7 +11,6 @@
 
 /* Typography */
 body{
-  outline: 10px solid red !important; 
   font-family: 'Inter', sans-serif;
   color: var(--ink);
   background: var(--bg);
