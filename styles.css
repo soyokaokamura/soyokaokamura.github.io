@@ -53,6 +53,10 @@ a:hover{
   margin-top: 18px;   /* ← 数値を調整 */
 }
 
+.navbar a:hover{
+  text-decoration: none !important;
+}
+
 .navbar .navbar-brand,
 .navbar .nav-link{
   font-family: 'Crimson Pro', serif !important;
@@ -63,6 +67,7 @@ a:hover{
 
 .navbar .nav-link:hover{
   color: var(--aqua-dark) !important;
+  transition: 0.2s ease;
 }
 
 .navbar-nav .nav-link.active{
