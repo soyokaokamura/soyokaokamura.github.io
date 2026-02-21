@@ -35,6 +35,11 @@ h1, h2, h3, h4{
   letter-spacing: 0.3px;
 }
 
+/* Remove underline only on index page */
+body.quarto-index h2{
+  border-bottom: none !important;
+}
+
 /* Links */
 a{
   color: var(--aqua-dark);
