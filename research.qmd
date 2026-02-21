@@ -5,21 +5,19 @@ reference-location: section
 page-layout: full
 ---
 
+# Working papers
+
+
 # Publications
 
 ::: {.paper}
-- Title {.paper-title}
-**Job Market Paper**  
-with Coauthor Name
-
-[Abstract](#abs-jmp){.paper-link} · [Paper](files/jmp.pdf){.paper-link} · [Slides](files/jmp_slides.pdf){.paper-link}
+- ***Title*** {.paper-title} (with Coauthor Name)
+[Paper](files/jmp.pdf){.paper-link} · [Slides](files/jmp_slides.pdf){.paper-link}
 
 ::: {.callout-note collapse="true" #abs-jmp}
-#### Abstract
+- Abstract 
 aaa
 :::
 :::
-
-# Working papers
 
 # Works in progress

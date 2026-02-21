@@ -17,6 +17,7 @@ format:
     theme: cosmo
     toc: true
     toc-location: left
+    css: styles.css
     fontsize: 1.0em
     smooth-scroll: true
     metadata:
