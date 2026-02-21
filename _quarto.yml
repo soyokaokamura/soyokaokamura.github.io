@@ -27,4 +27,4 @@ format:
       robots: "noindex, nofollow"
     include-in-header:
       - text: |
-          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Crimson+Pro:wght@400;600&display=swap" rel="stylesheet">
+          <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&family=Crimson+Pro:wght@400;600&display=swap" rel="stylesheet">
