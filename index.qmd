@@ -1,7 +1,5 @@
 ---
-title: "soyokaokamura.github.io"
+title: "Soyoka Okamura"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I am ...  
