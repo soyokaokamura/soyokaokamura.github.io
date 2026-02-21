@@ -24,7 +24,7 @@ html, body{
 
 /* Typography */
 body{
-  font-family: 'Inter', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif !important;
   color: var(--ink);
   letter-spacing: 0.1px;
   line-height: 1.7;
