@@ -14,7 +14,6 @@
 
   /* radius */
   --r: 14px;
-  --card-w: 1100px; 
 }
 
 /* Background */
@@ -60,13 +59,6 @@ a:hover{
   position: relative;
 }
 
-.navbar .container,
-.navbar .container-fluid{
-  max-width: var(--card-w) !important;
-  margin: 0 auto;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
 
 .navbar a:hover{
   text-decoration: none !important;
@@ -108,7 +100,7 @@ a:hover{
   border-radius: var(--r);
   padding: 1.3rem 1.5rem;
   box-shadow: 0 8px 24px rgba(31,41,55,0.06);
-  width: min(--card-w, calc(100% - 40px));  /* 最大1100px、狭い画面では縮む */
+  width: min(1100px, calc(100% - 40px));  /* 最大1100px、狭い画面では縮む */
   margin: 24px auto;  
 }
 
