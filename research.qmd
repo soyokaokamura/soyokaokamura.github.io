@@ -3,6 +3,7 @@ title: "Research"
 format: html
 reference-location: section
 page-layout: full
+toc: true
 ---
 
 # Working papers

@@ -16,7 +16,6 @@ format:
       light: cosmo
       dark: darkly
     css: styles.css
-    toc: true
     toc-location: left
     fontsize: 1.0em
     smooth-scroll: true
