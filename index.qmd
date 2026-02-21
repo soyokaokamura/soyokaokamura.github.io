@@ -13,7 +13,7 @@ page-title: false
 
 ::: {.column width="50%"}
 
-## Soyoka Okamura 
+## Soyoka Okamura  {.index-title}
 
 Graduate student in University of Tokyo
 

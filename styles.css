@@ -36,7 +36,7 @@ h1, h2, h3, h4{
 }
 
 /* Remove underline only on index page */
-body.quarto-index h2{
+.index-title{
   border-bottom: none !important;
 }
 
