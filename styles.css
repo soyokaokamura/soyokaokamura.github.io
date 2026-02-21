@@ -1,1 +1,102 @@
-/* css styles */
+/* Color palette (Aqua × Beige) */
+:root{
+  --bg: #4aa3c7;          /* beige background */
+  --paper: #f6f0e6;       /* slightly lighter beige */
+  --ink: #1f2937;         /* dark gray text */
+  --muted: #6b7280;       /* muted text */
+  --aqua: #4aa3c7;        /* main aqua */
+  --aqua-dark: #2e7f9b;   /* hover aqua */
+  --line: rgba(31,41,55,0.10);
+}
+
+/* Typography */
+body{
+  font-family: 'Inter', sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  letter-spacing: 0.1px;
+}
+
+h1, h2, h3, h4{
+  font-family: 'Crimson Pro', serif;
+  letter-spacing: 0.2px;
+}
+
+/* Links */
+a{
+  color: var(--aqua-dark);
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+/* Navbar */
+.navbar{
+  background-color: var(--paper) !important;
+  border-bottom: 1px solid var(--line);
+}
+.navbar .navbar-brand,
+.navbar a{
+  color: var(--ink) !important;
+  font-weight: 600;
+}
+.navbar a:hover{
+  color: var(--aqua-dark) !important;
+}
+
+/* Make active tab noticeable */
+.navbar-nav .nav-link.active{
+  color: var(--aqua-dark) !important;
+  border-bottom: 2px solid var(--aqua);
+  padding-bottom: 0.35rem;
+}
+
+/* Page content container (subtle “paper” feel) */
+.content{
+  background: transparent;
+}
+
+/* Callouts (used for Abstract dropdown etc.) */
+.callout{
+  border-left: 4px solid var(--aqua) !important;
+  background: var(--paper) !important;
+  border-radius: 10px;
+  border-top: 1px solid var(--line);
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.callout .callout-title{
+  color: var(--ink);
+}
+
+/* Buttons (e.g., Download CV) */
+.btn-primary{
+  background-color: var(--aqua) !important;
+  border-color: var(--aqua) !important;
+  color: white !important;
+  font-weight: 700;
+}
+.btn-primary:hover{
+  background-color: var(--aqua-dark) !important;
+  border-color: var(--aqua-dark) !important;
+}
+
+/* Section headers */
+h2{
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+}
+
+/* Paper list styling (optional, nice for Research page) */
+.paper{
+  margin: 1.2rem 0 1.6rem 0;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--line);
+}
+
+/* Optional: nicer tables on beige */
+table{
+  background: var(--paper);
+}
