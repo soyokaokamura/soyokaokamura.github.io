@@ -82,7 +82,7 @@ a:hover{
   border-radius: var(--r);
   padding: 1.3rem 1.5rem;
   box-shadow: 0 8px 24px rgba(31,41,55,0.06);
-  max-width: 1200px;     
+  max-width: 1000px;     
 }
 
 /* Section headers (subtle retro underline) */
