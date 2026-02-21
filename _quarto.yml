@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - robots.txt
 
 website:
   title: "Soyoka Okamura"
@@ -17,4 +19,5 @@ format:
     toc-location: left
     fontsize: 1.0em
     smooth-scroll: true
-
+    metadata:
+      robots: "noindex, nofollow"
