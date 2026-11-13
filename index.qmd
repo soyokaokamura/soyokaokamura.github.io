@@ -19,9 +19,10 @@ soyoka802@gmail.com
 
 [cv](files/cv-soyoka.pdf){target="_blank" rel="noopener" .btn .btn-primary .btn-cv}
 
-Hi! I'm Soyoka, a PhD student in Economics at Northwestern University. 
+PhD student in Economics at Northwestern University. 
 
-My research examines (i) how market in developing countries does (does not) works, and (ii) development corporation.
+I study development cooperation and industrial growth.
+
 
 
 :::
